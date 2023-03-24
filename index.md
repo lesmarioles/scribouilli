@@ -10,7 +10,7 @@ En gros, le climat est morose, les gens au pouvoir se foutent de nous, sauf que 
 L’humour, c’est rassembleur, et le rassemblement, ça peut être puissant et dangereux. 
 Ceux qui l’ont censuré – l’humour-  l’ont bien mesuré : la satire, quand elle devient populaire et émancipatrice, peut participer au développement d’une énergie politique contestataire et à l’entretien d’une vigilance critique.
 
-![](https://github.com/lesmarioles/scribouilli/blob/main/images/macron-mariole.jpg?raw=true)
+![Photo d'une marionnette représentant Macron faisant des doigts d'honneur.](https://github.com/lesmarioles/scribouilli/blob/main/images/macron-mariole.jpg?raw=true)
 
 Voici une playlist faite sur Peertube (non officielle) : 
 
