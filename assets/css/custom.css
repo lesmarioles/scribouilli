@@ -3,9 +3,10 @@
 }
 
 footer > div.container {
-display: none
+    display: none
 }
 
-border-bottom: 8px solid var(--couleur-primaire);
-
-border-top : none;
+footer {
+    border-bottom: 8px solid var(--couleur-primaire);
+    border-top : none;
+}
