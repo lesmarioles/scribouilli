@@ -5,3 +5,7 @@
 footer > div.container {
 display: none
 }
+
+border-bottom: 8px solid var(--couleur-primaire);
+
+border-top : none;
