@@ -12,11 +12,11 @@ Ceux qui l’ont censuré – l’humour-  l’ont bien mesuré : la satire, qua
 
 ![](https://github.com/lesmarioles/scribouilli/blob/main/images/macron-mariole.jpg?raw=true)
 
-Voici une playlist des vidéos (playlist non officielle) :
+Voici la première vidéo : 
 
-<iframe title="Les marioles de Blast" src="https://video.antopie.org/video-playlists/embed/217c9065-8492-40ed-a62a-4bbb5b17a70f" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+<iframe title="MACRON, LE BÂTISSEUR DE CATHÉDRALES - LES MARIOLES PARTIE 1" src="https://video.antopie.org/videos/embed/336bc79e-91da-46d9-99b3-e3a4729b9585" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
 
-Lien de la playlist : [https://video.antopie.org/my-library/video-playlists/217c9065-8492-40ed-a62a-4bbb5b17a70f](https://video.antopie.org/my-library/video-playlists/217c9065-8492-40ed-a62a-4bbb5b17a70f)
+Il existe aussi une playlist contenant toutes les vidéos dans l'ordre de parution (playlist non officielle) : [https://video.antopie.org/w/p/58QmTDcx6Qkx7m2RfpBs9P](https://video.antopie.org/w/p/58QmTDcx6Qkx7m2RfpBs9P)
 
 # Informations sur le projet
 - Vous pouvez soutenir le projet sur la page KissKissBankBank : https://kisskissbankbank.com/fr/projects/projetm/](https://kisskissbankbank.com/fr/projects/projetm)
