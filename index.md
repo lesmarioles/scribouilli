@@ -19,5 +19,5 @@ Voici la première vidéo :
 Il existe aussi une playlist contenant toutes les vidéos dans l'ordre de parution (playlist non officielle) : [https://video.antopie.org/w/p/58QmTDcx6Qkx7m2RfpBs9P](https://video.antopie.org/w/p/58QmTDcx6Qkx7m2RfpBs9P)
 
 # Informations sur le projet
-- Vous pouvez soutenir le projet sur la page KissKissBankBank : https://kisskissbankbank.com/fr/projects/projetm/](https://kisskissbankbank.com/fr/projects/projetm)
+- Vous pouvez soutenir le projet sur la page KissKissBankBank : [https://kisskissbankbank.com/fr/projects/projetm/](https://kisskissbankbank.com/fr/projects/projetm)
 - Visiter le site Web de Blast : [https://blast-info.fr/](https://blast-info.fr/)
