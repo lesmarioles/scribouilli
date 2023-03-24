@@ -21,3 +21,6 @@ Le lien de la playlist : [https://video.antopie.org/w/p/58QmTDcx6Qkx7m2RfpBs9P](
 # Informations sur le projet
 - Vous pouvez soutenir le projet sur la page KissKissBankBank : [https://kisskissbankbank.com/fr/projects/projetm/](https://kisskissbankbank.com/fr/projects/projetm)
 - Visiter le site Web de Blast : [https://blast-info.fr/](https://blast-info.fr/)
+
+----
+Site non officiel
