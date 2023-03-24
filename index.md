@@ -1,6 +1,13 @@
 ---
 title: Accueil
 ---
-# L'Échappée Belle
+# Les Marioles
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+Une émission totalement nouvelle de satire politique avec des marionnettes, faite par [Blast](https://www.blast-info.fr/).
+
+Le projet des Marioles est né d’un constat : il n’existe plus vraiment d’espace de liberté, d’humour et de satire dans le paysage médiatique, et ça manque. 
+En gros, le climat est morose, les gens au pouvoir se foutent de nous, sauf que l'inverse n'est plus possible. Ils n'ont jamais été aussi ridicules, ni aussi nuisibles à l'intérêt général, et il n'existe plus beaucoup de lieux pour faire vivre cette formidable arme émancipatrice qu’est l’humour.
+L’humour, c’est rassembleur, et le rassemblement, ça peut être puissant et dangereux. 
+Ceux qui l’ont censuré – l’humour-  l’ont bien mesuré : la satire, quand elle devient populaire et émancipatrice, peut participer au développement d’une énergie politique contestataire et à l’entretien d’une vigilance critique.
+
+![](https://github.com/lesmarioles/scribouilli/blob/main/images/macron-mariole.jpg?raw=true)
