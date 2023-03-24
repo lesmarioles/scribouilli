@@ -14,7 +14,8 @@ Ceux qui l’ont censuré – l’humour-  l’ont bien mesuré : la satire, qua
 
 Voici la première vidéo : 
 
-<iframe title="MACRON, LE BÂTISSEUR DE CATHÉDRALES - LES MARIOLES PARTIE 1" src="https://video.antopie.org/videos/embed/336bc79e-91da-46d9-99b3-e3a4729b9585" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+<div style="max-width: 100%;">
+<iframe title="MACRON, LE BÂTISSEUR DE CATHÉDRALES - LES MARIOLES PARTIE 1" src="https://video.antopie.org/videos/embed/336bc79e-91da-46d9-99b3-e3a4729b9585" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe></div>
 
 Il existe aussi une playlist contenant toutes les vidéos dans l'ordre de parution (playlist non officielle) : [https://video.antopie.org/w/p/58QmTDcx6Qkx7m2RfpBs9P](https://video.antopie.org/w/p/58QmTDcx6Qkx7m2RfpBs9P)
 
