@@ -14,8 +14,8 @@ Ceux qui l’ont censuré – l’humour-  l’ont bien mesuré : la satire, qua
 
 Voici une playlist des vidéos (playlist non officielle) :
 
-<iframe title="Les marioles de Blast" src="https://video.antopie.org/video-playlists/embed/217c9065-8492-40ed-a62a-4bbb5b17a70f" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+<iframe title="Les marioles de Blast" src="https://video.antopie.org/video-playlists/embed/217c9065-8492-40ed-a62a-4bbb5b17a70f" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" max-width="100%" frameborder="0"></iframe>
 
 # Informations sur le projet
-- Vous pouvez soutenir le projet sur la page KissKissBankBank : https://www.kisskissbankbank.com/fr/projects/projetm
-- Visiter le site Web de Blast : https://www.blast-info.fr/
+- Vous pouvez soutenir le projet sur la page KissKissBankBank : https://kisskissbankbank.com/fr/projects/projetm/](https://kisskissbankbank.com/fr/projects/projetm)
+- Visiter le site Web de Blast : [https://blast-info.fr/](https://blast-info.fr/)
