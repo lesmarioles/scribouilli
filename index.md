@@ -23,4 +23,4 @@ Le lien de la playlist : [https://video.antopie.org/w/p/58QmTDcx6Qkx7m2RfpBs9P](
 - Visiter le site Web de Blast : [https://blast-info.fr/](https://blast-info.fr/)
 
 ----
-*Site non officiel - Fait avec [Scribouilli](https://scribouilli.lechappeebelle.team/) par [saimyx](saimyx.eu.org/)*
+*Site non officiel - Fait avec [Scribouilli](https://scribouilli.lechappeebelle.team/) par [saimyx](https://saimyx.eu.org/)*
