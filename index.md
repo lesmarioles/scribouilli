@@ -1,5 +1,7 @@
 ---
-title: Accueil
+title: "Accueil"
+order: 1
+in_menu: true
 ---
 # Les Marioles
 
@@ -12,15 +14,20 @@ Ceux qui l’ont censuré – l’humour-  l’ont bien mesuré : la satire, qua
 
 ![Photo d'une marionnette représentant Macron faisant des doigts d'honneur.](https://github.com/lesmarioles/scribouilli/blob/main/images/macron-mariole.jpg?raw=true)
 
-Voici une playlist faite sur Peertube (non officielle) : 
+## Saison 1 (2023)
 
-<iframe title="Les marioles de Blast" src="https://video.antopie.org/video-playlists/embed/217c9065-8492-40ed-a62a-4bbb5b17a70f" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+Playlist sur Peertube (non officielle) :
+
+<iframe title="Les marioles de Blast - Saison 1" width="560" height="315" src="https://video.antopie.org/video-playlists/embed/217c9065-8492-40ed-a62a-4bbb5b17a70f" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
 
 Le lien de la playlist : [https://video.antopie.org/w/p/58QmTDcx6Qkx7m2RfpBs9P](https://video.antopie.org/w/p/58QmTDcx6Qkx7m2RfpBs9P)
 
-# Informations sur le projet
-- Vous pouvez soutenir le projet sur la page KissKissBankBank : [https://kisskissbankbank.com/fr/projects/projetm/](https://kisskissbankbank.com/fr/projects/projetm)
+## Saison 2 (2024)
+*En attente de sortie des épisodes*
+
+## Informations sur le projet
+- Financement participatif du projet sur KissKissBankBank : [https://kisskissbankbank.com/fr/projects/projetm/](https://kisskissbankbank.com/fr/projects/projetm)
 - Visiter le site Web de Blast : [https://blast-info.fr/](https://blast-info.fr/)
 
 ----
-*Site non officiel - Fait avec [Scribouilli](https://scribouilli.lechappeebelle.team/) par [saimyx](https://saimyx.eu.org/)*
+*Site non officiel - Fait avec [Scribouilli](https://scribouilli.org/) par [saimyx](https://saimyx.eu.org/) (Si l'équipe de Blast veut récupérer le nom de domaine, je le transférerais avec plaisir)* 
